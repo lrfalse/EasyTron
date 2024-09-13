@@ -85,3 +85,15 @@
     
 </dependencies>
 ```
+
+开发教程：
+1.api网站注册账号密码：
+https://tronscan.org/#/myaccount/apiKeys
+2.创建自己秘钥，每个账号只允许创建3个
+
+测试网络：
+https://shasta.tronscan.org/#/address/TJkjpzbmJFP6bLFn9v1SuhVcRfe8MbPX6Z
+正式网络：
+https://tronscan.org/#/address/
+
+创建ApiWrapper的时候需要指定创建的网络
